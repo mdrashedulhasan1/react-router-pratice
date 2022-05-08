@@ -1,0 +1,9 @@
+.post-container{
+    border: 2px solid gray;
+    border-radius: 50px;
+    padding: 5px;
+}
+.post-title-color{
+    color: blue;
+    font-weight: 600;
+}
